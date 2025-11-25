@@ -1,29 +1,29 @@
-echo "# 📸 packfigurinha - Página de Vendas" > README.md
-echo "" >> README.md
-echo "Página de vendas otimizada para mobile, criada para promover e vender o **Pack de Figurinhas** com mais de 600 figurinhas para engajamento em redes sociais." >> README.md
-echo "" >> README.md
-echo "## 🎯 Conteúdo do Pack" >> README.md
-echo "" >> README.md
-echo "O pack inclui figurinhas para diversos nichos, como:" >> README.md
-echo "- Lojistas" >> README.md
-echo "- Barbearia" >> README.md
-echo "- Estética Automotiva" >> README.md
-echo "- Caminhoneiros" >> README.md
-echo "- Lingerie" >> README.md
-echo "- Pizza & Hambúrguer" >> README.md
-echo "- 99/iFood/Uber" >> README.md
-echo "- Temas Gerais (Motivações, Memes, Reações, etc.)" >> README.md
-echo "" >> README.md
-echo "## 🚀 Como Publicar no GitHub Pages" >> README.md
-echo "" >> README.md
-echo "1. **Certifique-se de que todos os arquivos estão no repositório.**" >> README.md
-echo "2. Vá para **Settings** > **Pages** no seu repositório." >> README.md
-echo "3. Em **Source**, selecione a branch **\`main\`** e a pasta **\`/(root)\`**." >> README.md
-echo "4. Clique em **Save**." >> README.md
-echo "" >> README.md
-echo "Sua página estará disponível em: \`https://princercx.github.io/packfigurinha/\`" >> README.md
-echo "" >> README.md
-echo "## 🔗 Links Importantes" >> README.md
-echo "" >> README.md
-echo "- **Link de Pagamento**: \`https://mpago.la/2heAAgn\`" >> README.md
-echo "- **Preço**: R$ 5,00" >> README.md
+# 📸 packfigurinha - Página de Vendas
+
+Página de vendas otimizada para mobile, criada para promover e vender o **Pack de Figurinhas** com mais de 600 figurinhas para engajamento em redes sociais.
+
+## 🎯 Conteúdo do Pack
+
+O pack inclui figurinhas para diversos nichos, como:
+- Lojistas
+- Barbearia
+- Estética Automotiva
+- Caminhoneiros
+- Lingerie
+- Pizza & Hambúrguer
+- 99/iFood/Uber
+- Temas Gerais (Motivações, Memes, Reações, etc.)
+
+## 🚀 Como Publicar no GitHub Pages
+
+1. Certifique-se de que todos os arquivos estão no repositório.
+2. Vá para **Settings** > **Pages** no seu repositório.
+3. Em **Source**, selecione a branch **`main`** e a pasta **`/ (root)`**.
+4. Clique em **Save**.
+
+Sua página estará disponível em: `https://princercx.github.io/packfigurinha/`
+
+## 🔗 Links Importantes
+
+- **Link de Pagamento**: `https://mpago.la/2heAAgn`
+- **Preço**: R$ 5,00
